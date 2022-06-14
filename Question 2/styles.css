@@ -1,0 +1,10 @@
+body{
+    background-color: aliceblue;
+}
+.heading{
+    align-content: center;
+}
+.paragraph{
+    color: green;
+    font-style: italic;
+}

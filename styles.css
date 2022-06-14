@@ -1,0 +1,26 @@
+body{
+    background-color: navy;
+    text-decoration: none;
+    text-align: center;
+}
+h1{
+    color:yellow;
+    font-size: 12px;
+}
+
+a:link{
+    color: blue;
+}
+a:hover{
+    color: green;
+}
+a:visited{
+    color:yellow;
+}
+a:active{
+    color: maroon;
+}
+p{
+    color: blue;
+    font-style: italic;
+}
